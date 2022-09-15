@@ -20,4 +20,4 @@ while True:
     cv2.waitKey(1)
     img_array.append(img)
     
-    cv2.imshow("img",img)
+    cv2.imshow("Object",img)
